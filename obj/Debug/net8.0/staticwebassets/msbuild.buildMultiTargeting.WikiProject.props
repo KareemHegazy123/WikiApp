@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/WikiProject.props" />
+</Project>
